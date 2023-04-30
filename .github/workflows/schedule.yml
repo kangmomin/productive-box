@@ -12,6 +12,5 @@ jobs:
         uses: kangmomin/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 9842e074b8ee46aef76fd0d493bae0ed
-          ALL_COMMITS: true
+          GIST_ID: df031c1dae9f323d8b154c6989a02129
           TIMEZONE: Asia/Seoul
